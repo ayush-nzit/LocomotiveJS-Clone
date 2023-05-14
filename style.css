@@ -150,7 +150,7 @@ html.has-scroll-dragging {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: gilroy;
+    font-family: "gilroy";
     /* color: #222; */
     -webkit-text-stroke-color:#222;
 }
